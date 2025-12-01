@@ -232,6 +232,5 @@ def main_menu():
 def main():
     load_stats()
     main_menu()
-
-if __name__ == "__main__":
-    main()
+    
+main()
